@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<item id="49000" name="Браслет Печати Агатиона - Певец и Танцор " add_name="30 дн. ">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="BranchSys2.icon.br_aga_singer_dancer_i00"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="150"/>
+		<equip>
+			<slot id="NONE"/>
+		</equip>
+	</item>
+	<item id="49001" name="Упаковка: Агатион - Певец и Танцор (30 дн.)">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49002" name="Браслет Печати Агатиона - Певец и Танцор " add_name="90 дн.">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="BranchSys2.icon.br_aga_singer_dancer_i00"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="150"/>
+		<equip>
+			<slot id="NONE"/>
+		</equip>
+	</item>
+	<item id="49003" name="Упаковка: Агатион - Певец и Танцор (90 дн.)">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49004" name="Манифест Гноллов" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.event_mahum_memo"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49005" name="Манифест Орков Турек" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.event_orc_memo"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49006" name="Шкатулка Гноллов с Аденами" add_name="15 дн.">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.event_mahum_coinbox"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49007" name="Шкатулка Орков Турек с аденами" add_name="30 дн. ">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.event_orc_coinbox"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49008" name="Заряд Души: Без Ранга" add_name="Ивент">
+		<set name="icon" val="icon.etc_soulshot_none_for_rookie_i00"/>
+		<set name="weight" val="1"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49009" name="Заряд Духа: Без Ранга" add_name="Ивент">
+		<set name="icon" val="icon.etc_spiritshot_none_for_rookie_i00"/>
+		<set name="weight" val="1"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49010" name="Заряд Души: Ранг D" add_name="Ивент">
+		<set name="icon" val="icon.etc_spirit_bullet_blue_i00"/>
+		<set name="weight" val="2"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="D"/>
+	</item>
+	<item id="49011" name="Заряд Духа: Ранг D" add_name="Ивент">
+		<set name="icon" val="icon.etc_spell_shot_blue_i00"/>
+		<set name="weight" val="4"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="D"/>
+	</item>
+	<item id="49012" name="Зелье Исцеления" add_name="Ивент">
+		<set name="icon" val="icon.etc_lesser_potion_red_i00"/>
+		<set name="weight" val="5"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49013" name="Большое Зелье Исцеления" add_name="Ивент">
+		<set name="icon" val="icon.etc_potion_scarlet_i00"/>
+		<set name="weight" val="5"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49014" name="Зелье Внешности - A" add_name="Ивент">
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00"/>
+		<set name="weight" val="50"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49015" name="Зелье Внешности - B" add_name="Ивент">
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00"/>
+		<set name="weight" val="50"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49016" name="Зелье Внешности - C" add_name="Ивент">
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00"/>
+		<set name="weight" val="50"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49017" name="Красящее Зелье - A" add_name="Ивент">
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00"/>
+		<set name="weight" val="50"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49018" name="Красящее Зелье - B" add_name="Ивент">
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00"/>
+		<set name="weight" val="50"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49019" name="Красящее Зелье - C" add_name="Ивент">
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00"/>
+		<set name="weight" val="50"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49020" name="Красящее Зелье - D" add_name="Ивент">
+		<set name="icon" val="icon.etc_lesser_potion_scarlet_i00"/>
+		<set name="weight" val="50"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49021" name="Сундук с Зельем Внешности" add_name="Ивент">
+		<set name="icon" val="icon.event_high_oriental_park_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49022" name="Сундук с Красящим Зельем" add_name="Ивент">
+		<set name="icon" val="icon.event_high_oriental_park_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49023" name="Свиток Воодушевления" add_name="Ивент">
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="weight" val="120"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49024" name="Свиток Могущества" add_name="Ивент">
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="weight" val="120"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49025" name="Свиток Щита" add_name="Ивент">
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="weight" val="120"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49026" name="Свиток Возобновления (без уровня)">
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_ev_draco_pk_count_down"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		
+		<set name="handler" val="PkDecrease"/>
+		<set name="reuse_delay" val="300000"/>
+		<cond>
+			<and>
+				<player minLevel="1"/>
+				<player max_level="19"/>
+			</and>
+		</cond>		
+	</item>
+	<item id="49027" name="Свиток Возобновления (ранг D">
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_ev_draco_pk_count_down"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="handler" val="PkDecrease"/>
+		
+		<set name="reuse_delay" val="300000"/>
+
+		<cond>
+			<and>
+				<player minLevel="20"/>
+				<player max_level="39"/>
+			</and>
+		</cond>		
+	</item>
+	<item id="49028" name="Свиток Возобновления (ранг C)">
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_ev_draco_pk_count_down"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="handler" val="PkDecrease"/>
+		<set name="reuse_delay" val="300000"/>
+
+		<cond>
+			<and>
+				<player minLevel="40"/>
+				<player max_level="51"/>
+			</and>
+		</cond>		
+	</item>
+	<item id="49029" name="Свиток Возобновления (ранг B)">
+
+
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_ev_draco_pk_count_down"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="handler" val="PkDecrease"/>
+
+		<set name="reuse_delay" val="300000"/>
+
+		<cond>
+			<and>
+				<player minLevel="52"/>
+				<player max_level="60"/>
+			</and>
+		</cond>		
+	</item>
+	
+	
+
+	
+	
+	
+	
+	
+	<item id="49030" name="Свиток Возобновления (ранг A)">
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_ev_draco_pk_count_down"/>
+		<set name="price" val="54000"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="handler" val="PkDecrease"/>
+		<set name="reuse_delay" val="300000"/>
+
+		<cond>
+			<and>
+				<player minLevel="61"/>
+				<player max_level="75"/>
+			</and>
+		</cond>
+	</item>
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	<item id="49031" name="Кольцо Наследника">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.event_classic_ring"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="150"/>
+		<equip>
+			<slot id="RIGHT_FINGER"/>
+			<slot id="LEFT_FINGER"/>
+		</equip>
+		<skills>
+			<skill id="39019" level="1"/>
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" val="14"/>
+		</for>
+	</item>
+	<item id="49032" name="Летающая Lоска" add_name="30 дн. ">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.bm_soaring_bird"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="10"/>
+		<set name="durability" val="43200"/>
+		<set name="temporal" val="true"/>
+</item>
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	<item id="49033" name="Сундук с подарками в честь открытия сервера Класссик">
+		<set name="handler" val="SkillsReduce"/>
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_box_love_pack"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+				<skills>
+			<skill id="40006" level="1"/>
+		</skills>
+	</item>
+	<item id="49034" name="Шкатулка Гноллов с аденами" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.event_mahum_coinbox"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49035" name="Шкатулка Орков Турек с аденами" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.event_orc_coinbox"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49036" name="Зелье Ускорения для Путешественника">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="type" val="POTION"/>
+		<set name="reuse_delay" val="500"/>
+		<set name="icon" val="icon.etc_potion_green_i00"/>
+		<set name="weight" val="20"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<skills>
+			<skill id="39028" level="1"/>
+		</skills>
+	</item>
+	<item id="49037" name="Инвентарь - Classic 1">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val=""/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49038" name="Инвентарь - Classic 2">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val=""/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49039" name="Ожерелье Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.accessary_necklace_of_knowledge_i00"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="50"/>
+		<equip>
+			<slot id="NECKLACE"/>
+		</equip>
+		<for>
+			<add stat="mDef" order="0x10" val="18"/>
+		</for>
+	</item>
+	<item id="49040" name="Серьга Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.accessary_mage_earing_i00"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="40"/>
+		<equip>
+			<slot id="RIGHT_EAR"/>
+			<slot id="LEFT_EAR"/>
+		</equip>
+		<for>
+			<add stat="mDef" order="0x10" val="13"/>
+		</for>
+	</item>
+	<item id="49041" name="Кольцо Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.accessary_ring_of_knowledge_i00"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="10"/>
+		<equip>
+			<slot id="RIGHT_FINGER"/>
+			<slot id="LEFT_FINGER"/>
+		</equip>
+		<for>
+			<add stat="mDef" order="0x10" val="10"/>
+		</for>
+	</item>
+	<item id="49042" name="Щит Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.shield_small_shield_i00"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="1410"/>
+		<set name="price" val="270"/>
+		<equip>
+			<slot id="LEFT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pEvasRate" order="0x10" val="-8"/>
+			<add stat="sDef" order="0x10" val="68"/>
+			<add stat="rShld" order="0x10" val="20"/>
+		</for>
+	</item>
+	<item id="49043" name="Меч Единства для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_long_sword_i00"/>
+		<set name="type" val="SWORD"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="13"/>
+			<add stat="mAtk" order="0x10" val="10"/>
+			<set stat="basePAtkSpd" order="0x08" val="379"/>
+			<set stat="basePCritRate" order="0x08" val="80"/>
+		</for>
+	</item>
+	<item id="49044" name="Скипетр Адепта для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_apprentices_wand_i00"/>
+		<set name="type" val="BLUNT"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="is_magic_item" val="true"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="12"/>
+			<add stat="mAtk" order="0x10" val="14"/>
+			<set stat="basePAtkSpd" order="0x08" val="379"/>
+			<set stat="basePCritRate" order="0x08" val="60"/>
+			<add stat="pAccCombat" order="0x10" val="8"/>
+		</for>
+	</item>
+	<item id="49045" name="Посох Багрового Заката для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_cedar_staff_i00"/>
+		<set name="type" val="BLUNT"/>
+		<set name="weight" val="1700"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="is_magic_item" val="true"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="14"/>
+			<add stat="mAtk" order="0x10" val="15"/>
+			<set stat="basePAtkSpd" order="0x08" val="325"/>
+			<set stat="basePCritRate" order="0x08" val="60"/>
+			<add stat="pAccCombat" order="0x10" val="8"/>
+		</for>
+	</item>
+	<item id="49046" name="Меч Багрового Заката для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_brandish_i00"/>
+		<set name="type" val="SWORD"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="17"/>
+			<add stat="mAtk" order="0x10" val="11"/>
+			<set stat="basePAtkSpd" order="0x08" val="325"/>
+			<set stat="basePCritRate" order="0x08" val="80"/>
+		</for>
+	</item>
+	<item id="49047" name="Меч Стража для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_broad_sword_i00"/>
+		<set name="type" val="SWORD"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="15"/>
+			<add stat="mAtk" order="0x10" val="12"/>
+			<set stat="basePAtkSpd" order="0x08" val="379"/>
+			<set stat="basePCritRate" order="0x08" val="80"/>
+		</for>
+	</item>
+	<item id="49048" name="Посох Стража для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_cedar_staff_i00"/>
+		<set name="type" val="BLUNT"/>
+		<set name="weight" val="1800"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="is_magic_item" val="true"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="LEFT_RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="14"/>
+			<add stat="mAtk" order="0x10" val="16"/>
+			<set stat="basePAtkSpd" order="0x08" val="325"/>
+			<set stat="basePCritRate" order="0x08" val="60"/>
+			<add stat="pAccCombat" order="0x10" val="8"/>
+		</for>
+	</item>
+	<item id="49049" name="Пугающий Кинжал для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_knife_i00"/>
+		<set name="type" val="DAGGER"/>
+		<set name="weight" val="1130"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="5"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="12"/>
+			<add stat="mAtk" order="0x10" val="11"/>
+			<set stat="basePAtkSpd" order="0x08" val="433"/>
+			<set stat="basePCritRate" order="0x08" val="120"/>
+			<add stat="pAccCombat" order="0x10" val="-3.75"/>
+		</for>
+	</item>
+	<item id="49050" name="Кровавая Сабля для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_broad_sword_i00"/>
+		<set name="type" val="SWORD"/>
+		<set name="weight" val="1450"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="15"/>
+			<add stat="mAtk" order="0x10" val="12"/>
+			<set stat="basePAtkSpd" order="0x08" val="379"/>
+			<set stat="basePCritRate" order="0x08" val="80"/>
+		</for>
+	</item>
+	<item id="49051" name="Дубина Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_club_i00"/>
+		<set name="type" val="BLUNT"/>
+		<set name="weight" val="1870"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="price" val="76"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="9"/>
+			<add stat="mAtk" order="0x10" val="7"/>
+			<set stat="basePAtkSpd" order="0x08" val="379"/>
+			<set stat="basePCritRate" order="0x08" val="60"/>
+			<add stat="pAccCombat" order="0x10" val="8"/>
+		</for>
+	</item>
+	<item id="49052" name="Меч Мясника для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_orcish_sword_i00"/>
+		<set name="type" val="SWORD"/>
+		<set name="weight" val="1450"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="10"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="14"/>
+			<add stat="mAtk" order="0x10" val="11"/>
+			<set stat="basePAtkSpd" order="0x08" val="379"/>
+			<set stat="basePCritRate" order="0x08" val="80"/>
+		</for>
+	</item>
+	<item id="49053" name="Молот Кузнеца для Новичка">
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.item_iron_hammer_i00"/>
+		<set name="type" val="BLUNT"/>
+		<set name="weight" val="1860"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="rnd_dam" val="20"/>
+		<set name="price" val="11840"/>
+		<equip>
+			<slot id="RIGHT_HAND"/>
+		</equip>
+		<for>
+			<add stat="pAtk" order="0x10" val="14"/>
+			<add stat="mAtk" order="0x10" val="11"/>
+			<set stat="basePAtkSpd" order="0x08" val="379"/>
+			<set stat="basePCritRate" order="0x08" val="60"/>
+			<add stat="pAccCombat" order="0x10" val="8"/>
+		</for>
+	</item>
+	<item id="49054" name="Осколок Руды Души">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.general_energy_condense_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49055" name="Заряд Грома" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.block_boom"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49056" name="Упаковка Удачи: Заряды Души (без Ранга)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49057" name="Упаковка Удачи: Заряды Души (Ранг D)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49058" name="Упаковка Удачи: Заряды Души (Ранг C)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_treasure_box_i07"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49059" name="Упаковка Удачи: Заряды Духа (без Ранга)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49060" name="Упаковка Удачи: Заряды Духа (Ранг D)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49061" name="Упаковка Удачи: Заряды Духа (Ранс C)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_treasure_box_i07"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49062" name="Чудесный Заряд Духа (Без ранга)">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_spell_shot_white_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49063" name="Чудесный Заряд Духа - Ранг D">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_spell_shot_blue_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="D"/>
+	</item>
+	<item id="49064" name="Чудесный Заряд Духа - Ранг C">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_spell_shot_green_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="C"/>
+	</item>
+	<item id="49065" name="Упаковка Удачи - Благ. Заряды Духа (без Ранга)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49066" name="Упаковка Удачи - Благ. Заряды Духа (Ранг D)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49067" name="Упаковка Удачи - Благ. Заряды Духа (Ранг C)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_treasure_box_i07"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49068" name="Камень Скорости" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.stone_8_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49069" name="Сундук Грома Духов - Заряды Души (без Ранга)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49070" name="Сундук Грома Духов - Заряды Души (Ранг D)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49071" name="Сундук Грома Духов - Заряды Души (Ранг C)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i01"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49072" name="Сундук Грома Духов - Заряды Духа (без Ранга)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49073" name="Сундук Грома Духов - Заряды Духа (Ранг D)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49074" name="Сундук Грома Духов - Заряды Духа (Ранг C)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i01"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49075" name="Сундук Грома Духов - Благ. Заряды Духа (без Ранга)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49076" name="Сундук Грома Духов - Благ. Заряды Духа (Ранг D)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49077" name="Сундук Грома Духов - Благ. Заряды Духа (Ранг C)" add_name="Ивент">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i01"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49078" name="Упаковка: Модная Шляпа (100 дн.)">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i02"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+	<item id="49079" name="Упаковка: Модная Шляпа (33 дн.)">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_gift_box_i03"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+</list>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+        <etcitem id="57300" name="Pack of Low Grade Ascension Barrel">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_5_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57301" name="Pack of Mid Grade Ascension Barrel">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_2_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57302" name="Pack of High Grade Ascension Barrel">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_1_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+          <etcitem id="57303" name="Pack of Low Grade Ascension Cube">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_5_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57304" name="Pack of Mid Grade Ascension Cube">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_2_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57305" name="Pack of High Grade Ascension Cube">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_1_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+  
+            <etcitem id="57306" name="Pack of Low Grade Ascension Grail">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_5_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57307" name="Pack of Mid Grade Ascension Grail">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_2_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57308" name="Pack of High Grade Ascension Grail">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_1_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+              <etcitem id="57309" name="Pack of Low Grade Ascension Soup">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_5_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57310" name="Pack of Mid Grade Ascension Soup">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_2_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57311" name="Pack of High Grade Ascension Soup">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_1_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+  
+                <etcitem id="57312" name="Low Grade Herb Box">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_5_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57313" name="Mid Grade Herb Box">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_2_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57314" name="High Grade Herb Box">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_1_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+          <etcitem id="57315" name="Potion Box">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.event_hero_treasure_box_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+  
+                                  <etcitem id="57346" name="Starter Pack">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Crest.crest_1_100153"/>
+		<set name="sellable" value="true"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="storeable" value="true"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+                                    <etcitem id="57347" name="Adventurer Pack">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Crest.crest_1_100157"/>
+		<set name="sellable" value="true"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="storeable" value="true"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+                                    <etcitem id="57348" name="Explorer Pack">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Crest.crest_1_100161"/>
+		<set name="sellable" value="true"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="true"/>
+		<set name="storeable" value="true"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+<etcitem id="57364" name="Ancient Token">
+	<set name="class" value="OTHER"/>
+	<set name="crystal_type" value="NONE"/>
+	<set name="icon" value="icon.l2coin"/>
+	<set name="type" value="OTHER"/>
+	<set name="dropable" value="false"/>
+	<set name="tradeable" value="false"/>
+	<set name="stackable" value="true"/>
+</etcitem>
+</list>

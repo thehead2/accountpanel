@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	  	  	 	  <etcitem id="57100" name="Mid Grade Ascension Cube">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100069"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	 	  <etcitem id="57101" name="High Grade Ascension Cube">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100070"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	 	  <etcitem id="57102" name="Legendary Ascension Cube">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100071"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	<etcitem id="57103" name="Low Grade Ascension Grail">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100072"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	 	  <etcitem id="57104" name="Mid Grade Ascension Grail">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100073"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	 	  <etcitem id="57105" name="High Grade Ascension Grail">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100074"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	 	  <etcitem id="57106" name="Legendary Ascension Grail">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100075"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	 	  <etcitem id="57107" name="Low Grade Ascension Soup">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100076"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	 	  <etcitem id="57108" name="Mid Grade Ascension Soup">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100077"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	 	  <etcitem id="57109" name="High Grade Ascension Soup">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100078"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57110" name="Legendary Ascension Soup">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100079"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	 	  <etcitem id="57111" name="Low Grade Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100084"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57112" name="Mid Grade Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100085"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57113" name="High Grade Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100086"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57114" name="Legendary Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100087"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57115" name="Low Grade Higher Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100088"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57116" name="Mid Grade Higher Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100089"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57117" name="High Grade Higher Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100090"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57118" name="Legendary Higher Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100091"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57119" name="Low Grade Supreme Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100092"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57120" name="Mid Grade Supreme Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100093"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57121" name="High Grade Supreme Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100094"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57122" name="Legendary Supreme Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100095"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57123" name="Low Grade Divine Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100104"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57124" name="Mid Grade Divine Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100105"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	  	  	 	  <etcitem id="57125" name="High Grade Divine Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100106"/>
+		<set name="type" value="OTHER"/>
+				<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  	<etcitem id="57126" name="Legendary Divine Concentrated Energy">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="Crest.crest_1_100099"/>
+		<set name="type" value="OTHER"/>
+		<set name="dropable" value="false"/>
+		<set name="tradeable" value="false"/>
+		<set name="stackable" value="true"/>
+	  </etcitem>
+	  <etcitem id="57127" name="High Stone Spirit Bat">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_bat_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57128" name="High Stone Spirit PekingOpera Male">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_blue_pekingopera_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57129" name="Mid Stone Spirit BlueBird">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_bluebird_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57130" name="Mid Stone Spirit Bebeth">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_bonus_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57131" name="Mid Stone Spirit Bugbear">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_bugbear_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57132" name="Low Stone Spirit PepaCow">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_cashcow_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57133" name="High Stone Spirit Miss Chipao">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_chinesedress_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57134" name="Legendary Stone Spirit Cupid">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_cupid_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57135" name="High Stone Spirit Dancingchild">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_dancingchild_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57136" name="High Stone Spirit Dryad">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_dryad_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57137" name="High Stone Spirit Gangsi">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_gangsi_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57138" name="Low Stone Spirit Hatbird">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_jiayan_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57139" name="Low Stone Spirit Moise">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_local2009_a_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57140" name="High Stone Spirit Nemo">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_local2009_b_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57141" name="Legendary Stone Spirit Gala">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_local2009_c_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57142" name="Legendary Stone Spirit Nelson">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_local2009_d_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57143" name="Low Stone Spirit Ernesto">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_local2009_e_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57144" name="High Stone Spirit Odin">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_local2009_f_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57145" name="Low Stone Spirit Anna">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_local2009_g_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57146" name="Low Stone Spirit Bronko">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100132"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57147" name="Legendary Stone Spirit Ferro">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_local2009_i_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57148" name="Legendary Stone Spirit Serva">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_local2009_j_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57149" name="Legendary Stone Spirit Naonin">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100134"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57150" name="Legendary Stone Spirit Ahertbein">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100133"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57151" name="High Stone Spirit Divine Angel">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100126"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57152" name="Mid Stone Spirit Monkey">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100127"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57153" name="Mid Stone Spirit Luckyboy">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_luckyboy_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57154" name="Mid Stone Spirit Luckygirl">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_luckygirl_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57155" name="High Stone Spirit Maneki">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_maneki_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57156" name="Legendary Stone Spirit Mercygod">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_mercygod_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57157" name="Legendary Stone Spirit Pegasus">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_pegasus_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57158" name="High Stone Spirit Pekingopera Female">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_pekingopera_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57159" name="Mid Stone Spirit Sumo">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_sumo_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57160" name="Legendary Stone Spirit Sumo Match">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_sumo_match_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57161" name="Mid Stone Spirit Suno Ball">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_suno_ball_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57162" name="Mid Stone Spirit Suno Tall">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_suno_tall_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57163" name="Mid Stone Spirit Suno Trumpet">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_suno_trumpet_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57164" name="Legendary Stone Spirit Suno Sunwukong">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_sunwukong_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57165" name="Mid Stone Spirit Suno Toybear">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_toybear_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57166" name="High Stone Spirit Suno Tozi">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_tozi_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57167" name="Mid Stone Spirit Suno Uthanka">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_uthanka_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57168" name="Mid Stone Spirit Suno Warriorgod">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_warriorgod_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57169" name="High Stone Spirit Suno Wealth God">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_wealth_god_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57170" name="High Stone Spirit Suno Womanweaver">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_aga_womanweaver_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57171" name="Low Stone Spirit Suno Baby Panda">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_baby_panda_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57172" name="Mid Stone Spirit Kunfu Panda">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_kunfu_panda_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57173" name="Mid Stone Spirit Mazu">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_bracelet_aga_mazu_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57174" name="Legendary Stone Spirit Pitak">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_bracelet_aga_pitak_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57175" name="High Stone Spirit Sexy Panda">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys.Icon.br_sexy_panda_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57176" name="Mid Stone Spirit Ball Female">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_ball_female_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57177" name="Legendary Stone Spirit Ball">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_ball_kick_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57178" name="Mid Stone Spirit Ball Male">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_ball_male_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57179" name="Mid Stone Spirit block_mother">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_block_mother_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57180" name="Low Stone Spirit Griffin">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100128"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57181" name="Low Stone Spirit Crespo">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100131"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57182" name="Mid Stone Spirit Teddy Boy">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100129"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57183" name="Mid Stone Spirit Teddy Girl">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100130"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57184" name="Legendary Stone Spirit Opera">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="BranchSys.icon.br_aga_redblue_pekingopera_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57185" name="Legendary Stone Spirit Phoenix">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_china_phoenix_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57186" name="Legendary Stone Spirit Flower Fairy">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_flower_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57187" name="Legendary Stone Spirit Singer Dancer">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_singer_dancer_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57188" name="Legendary Stone Spirit Threehead">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_threehead_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57189" name="Low Stone Spirit Tiger Grandma">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_tiger_grandma_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57190" name="Legendary Stone Spirit Gold Mazu">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="BranchSys.icon.br_bracelet_aga_mazu_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57191" name="Low Stone Spirit Rudolph">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.event_lbracelet_rudolph"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57192" name="High Stone Spirit Han">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.event_agathion_han_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57193" name="Low Stone Spirit Rabbit">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.g_ev_rabbit"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57194" name="Low Stone Spirit Flame">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="branchSys2.Icon.br_aga_valakas_01_i00"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57195" name="Low Stone Spirit TopoCoptero">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100113"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57196" name="Low Stone Spirit Little Angel">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100114"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57197" name="Low Stone Spirit Little Devil">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100115"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57198" name="Low Stone Spirit Love Samshin">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100116"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57199" name="Low Stone Spirit Cachimachin">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100117"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>	  
+</list>

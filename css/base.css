@@ -1,0 +1,302 @@
+html {
+	background-color: #EEE;
+	color: #FFF;
+	font-size: 14px;
+	overflow-y: scroll;
+}
+
+header {
+	margin: 60px 0px;
+}
+
+header a {
+	border: 0;
+}
+
+header a:hover {
+	border: 0;
+}
+
+header img {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=0.1);
+	-moz-opacity:0.01;
+	-khtml-opacity: 0.01;
+	opacity: 0.01;
+}
+
+footer {
+	color: #111;
+	text-align: right;
+	margin: 3px 15px;
+}
+
+a {
+	color: #3399CC !important;
+	text-decoration: none !important;
+	border-bottom: 1px dashed;
+}
+
+a:hover {
+
+	border-bottom: 1px dotted;
+}
+
+input[type="text"], input[type="password"], textarea {
+	background: none;
+	border: none;
+
+	font-size: 11px;
+	font-family: arial;
+	font-weight: normal;
+
+	color: #333;
+
+	width: 150px;
+	height: 25px;
+	line-height: 25px;
+	padding: 0;
+	position: absolute;
+	display: block;
+	outline: none;
+}
+
+textarea {
+	width: 400px;
+	height: 150px;
+	line-height: normal;
+}
+
+button {
+	width: 172px;
+	height: 25px;
+	line-height: 25px;
+
+	font-size: 11px;
+	font-family: arial;
+	text-transform: uppercase;
+
+	padding: 0px 10px;
+}
+
+button:hover, input[type='submit']:hover {
+	cursor: pointer !important;
+}
+
+button.small {
+	width: 150px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 10px;
+}
+
+table {
+	width: 100%;
+}
+
+form {
+	width: 172px;
+	margin: 0px auto;
+}
+
+form.collapsed div.input {
+	display: none;
+}
+
+form#purchasePaySafeCard {
+	margin: 0px;
+}
+
+hr {
+	border: none;
+	border-top: 1px dashed #ff0084;
+}
+
+tr.widget-header {
+	padding-left: 10px;
+	height: 30px;
+}
+
+iframe {
+	width: 800px;
+	height: 600px;
+}
+
+#container {
+	width: 974px;
+	margin: 0px auto;
+}
+
+#content {
+	background-color: #111;
+	padding: 15px;
+}
+
+.notification {
+	font-weight: normal !important;
+	padding: 7px;
+	position: absolute;
+	top: 144px;
+}
+
+.error {
+	padding: 7px;
+}
+
+.input, .textarea {
+	width: 150px;
+	height: 25px;
+	line-height: 25px;
+	padding: 0px 10px;
+
+	display: inline-block;
+	display: block;
+	zoom: 1;
+	*display: inline;
+	_height: 25px;
+	vertical-align: middle;
+}
+
+.input span, .textarea span {
+	text-align: right;
+	pointer-events: none;
+	display: block;
+}
+
+.input, button, textarea {
+	margin: 3px 0px;
+}
+
+.percent25 {
+	width: 24%;
+}
+
+.percent33 {
+	width: 33%;
+}
+
+.percent50 {
+	width: 50%;
+}
+
+.percent67 {
+	width: 67%;
+}
+
+.percent70 {
+	width: 76%;
+	padding-left: 15px;
+}
+.button_grande_azul { 
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#333333;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#FFD27D;
+border-color: #d8d8d8;
+border-width: 3px;
+border-style: solid;
+border-radius:35px;
+}
+.loader {
+	padding-top: 4px;
+	margin-left: -7px;
+	position: absolute;
+	display: none;
+}
+
+.middle {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.ui-state-default {
+	font-weight: normal !important;
+}
+
+.widget-header {
+	padding: 10px;
+}
+
+.widget-content {
+	padding: 5px;
+}
+
+.icon {
+	float: left;
+	margin-right: .3em;
+}
+
+.returnButton {
+	position: absolute;
+	margin-left: 787px;
+	top: 5px;
+}
+
+.credits {
+	padding: 0px 2px;
+}
+
+.tableIcon {
+	width: 36px;
+}
+
+.tableCollapsed {
+	display: none;
+}
+
+.tableCount, .tablePrice, .tablePurchase, .tablePreview, .tableEnchant, .tableBid , .tableEnd{
+	width: 100px;
+	text-align: center;
+	border-left: 1px solid #d3d3d3;
+}
+
+.tablePrice {
+	width: 70px;
+}
+
+.tableEnd {
+	width: 170px;
+}
+
+.tableBid {
+	width: 150px;
+	font-weight: normal !important;
+}
+
+.tableEnchant {
+	width: 120px;
+}
+
+.tablePurchase {
+	width: 90px;
+}
+
+.tablePreview {
+	width: 145px;
+}
+
+.tablePurchase a, .tablePreview a , .tableEnchant a {
+	color: white !important;
+	text-transform: uppercase;
+}
+
+.red {
+	color: #ff0084;
+}
+
+.green {
+	color: #00ff84;
+}
+
+.vote_banner img {
+	width: 88px;
+	height: 50px;
+}

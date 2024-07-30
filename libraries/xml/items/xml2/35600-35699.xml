@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<item id="35669" name="Благословение Кота-Ангела" add_name="30 дн.">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<set name="icon" val="icon.skilltransform4"/>
+		<set name="weight" val="5"/>
+		<set name="crystal_type" val="NONE"/>
+	</item>
+</list>

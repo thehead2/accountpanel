@@ -1,0 +1,13 @@
+<div class="ui-state-hover ui-corner-top widget-header"><span class="ui-icon ui-icon-tag icon"></span> Credits</div>
+<div class="ui-widget-content ui-corner-bottom widget-content">
+	<div class="ui-widget-header widget-header">Confirm the details</div>
+	<div class="ui-widget-content widget-content">
+		<span class="red">Please check whether the following details are correct and click "Pay Now" to proceed. Be warned that the payment is irreversible and the money will not be refunded.</span>
+		<hr />
+		<b>Purchasing</b>: <span class="ui-state-default ui-corner-all credits">{number_format($_GET['credits'],8)}</span><br />
+		<b>Price</b>: {number_format($_GET['credits']*$settings['creditPrice'],8)} EUR<br />
+		<b>Payment method</b>: {ucfirst($_GET['system'])}
+		<hr />
+		%button%
+	</div>
+</div>

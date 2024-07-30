@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="items.xsd">
+	<item id="22565" type="EtcItem" name="Dimensional Support Pack">
+		<!-- Description: Wrapped pack containing 2 Superior Minion Coupons, 3 Feathers of Blessing, 5 Kamaloka (Hall of the Abyss, Labyrinth of the Abyss, Near) entrance passes, and 3 Vitality Replenishing Beverages. Cannot be exchanged, dropped, or destroyed. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="steel" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+	</item>
+	<item id="22566" type="EtcItem" name="Potion Support Pack">
+		<!-- Description: Wrapped pack containing 20 Greater Quick Healing Potions, 50 Greater Healing Potions, 5 Fresh Milks, and 5 Leaves of Appreciation. Cannot be exchanged, dropped, or destroyed. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="steel" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+	</item>
+	<item id="22567" type="EtcItem" name="Supplies Support Pack">
+		<!-- Description: Wrapped pack containing 200,000 Mysterious Soulshots of all grade. Cannot be exchanged, dropped, or destroyed. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="material" val="steel" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+	</item>
+
+	<item id="22568" type="Armor" name="Improved Necklace of Valakas">
+		<set name="icon" val="icon.accessory_necklace_of_valakas_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="237" />
+		<set name="crystal_type" val="s" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="10003-1" />
+		<for>
+			<add order="0x10" stat="mDef" val="125" />
+			<add order="0x40" stat="maxMp" val="50" />
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	
+	<item id="22569" type="Armor" name="Improved Earring of Antharas">
+		<set name="icon" val="icon.accessory_earring_of_antaras_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="178" />
+		<set name="crystal_type" val="s" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="price" val="3700000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="10005-1" />
+		<for>
+			<add order="0" stat="mDef" val="178" />
+			<add stat="maxMp" val="370" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="22570" type="Armor" name="Improved Ring of Baium">
+		<set name="icon" val="icon.accessory_ring_of_baium_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="83" />
+		<set name="crystal_type" val="s" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="price" val="1730000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="10006-1" />
+		<for>
+			<add order="0" stat="mDef" val="118" />
+			<add stat="maxMp" val="210" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="22571" type="Armor" name="Improved Earring of Orfen">
+		<set name="icon" val="icon.accessory_earring_of_orfen_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="104" />
+		<set name="crystal_type" val="a" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="price" val="1300000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="10007-1" />
+		<for>
+			<add order="0" stat="mDef" val="178" />
+			<add stat="maxMp" val="310" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="22572" type="Armor" name="Improved Ring of Core">
+		<set name="icon" val="icon.accessory_ring_of_core_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="69" />
+		<set name="crystal_type" val="a" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="price" val="870000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="10008-1" />
+		<for>
+			<add order="0" stat="mDef" val="118" />
+			<add stat="maxMp" val="210" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="22573" type="Armor" name="Improved Ring of Beleth">
+		<set name="icon" val="icon.accessary_dynasty_ring_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="152" />
+		<set name="crystal_type" val="s" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="price" val="2400000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="10009-1" />
+		<for>
+			<add order="0" stat="mDef" val="118" />
+			<add stat="maxMp" val="210" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+		<item id="22574" type="Armor" name="Improved Necklace of Frintezza">
+		<set name="icon" val="icon.accessory_necklace_of_frintessa_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="230" />
+		<set name="crystal_type" val="a" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="price" val="3450000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="10010-1" />
+		<for>
+			<add order="0" stat="mDef" val="225" />
+			<add stat="maxMp" val="420" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="22575" type="Armor" name="Improved Baylor's Earring">
+		<set name="icon" val="icon.accessary_dynasty_earing_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="487" />
+		<set name="crystal_type" val="S80" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="price" val="12185000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="10011-1" />
+		<for>
+			<add order="0" stat="mDef" val="178" />
+			<add stat="maxMp" val="310" />
+			<add stat="darkRes" val="60" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="22576" type="EtcItem" name="Improved Jewel Fragment">
+		<set name="icon" val="icon.etc_broken_crystal_blue_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22577" type="Armor" name="Yellow Talisman of Viper">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26074-1" />
+		<set name="duration" val="720" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+	<item id="22578" type="Armor" name="Yellow Talisman of Event">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26075-1" />
+		<set name="duration" val="360" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+	<item id="22579" type="Armor" name="Yellow Talisman of Event">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26076-1" />
+		<set name="duration" val="360" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+		<item id="22580" type="Armor" name="Yellow Talisman of Event">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26077-1" />
+		<set name="duration" val="360" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+		<item id="22581" type="Armor" name="Yellow Talisman of Event">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26078-1" />
+		<set name="duration" val="360" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+		<item id="22582" type="Armor" name="Yellow Talisman of Event">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26079-1" />
+		<set name="duration" val="360" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+		<item id="22583" type="Armor" name="Yellow Talisman of Event">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26080-1" />
+		<set name="duration" val="360" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+		<item id="22584" type="Armor" name="Yellow Talisman of Event">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26081-1" />
+		<set name="duration" val="360" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+		<item id="22585" type="Armor" name="Yellow Talisman of Event">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26082-1" />
+		<set name="duration" val="360" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+		<item id="22586" type="Armor" name="Yellow Talisman of Event">
+		<set name="icon" val="icon.etc_talisman_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="deco1" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="gold" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="item_skill" val="26083-1" />
+		<set name="duration" val="360" />
+		<set name="useSkillDisTime" val="1" />
+	</item>
+			<item id="22588" type="Armor" name="Earring Potara">
+		<set name="icon" val="icon.accessary_earing_of_mana_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="0" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="enchant_enabled" val="0" />
+		<set name="duration" val="120" />
+		<set name="useSkillDisTime" val="1" />
+
+		<for>
+			<add order="0" stat="mDef" val="132" />
+			<enchant stat="mDef" val="0" />
+		</for>
+		
+	</item>
+		<item id="22589" type="EtcItem" name="Dragon Ball Map">
+		<set name="icon" val="icon.etc_ssq_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="false" />
+
+	</item>
+		<item id="22591" type="EtcItem" name="Dragon Ball">
+		<set name="icon" val="etc_i.etc_treasure_sack_1_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="false" />
+		<set name="time" val="121" />
+
+	</item>
+		<item id="22592" type="EtcItem" name="Dragon Ball">
+		<set name="icon" val="icon.etc_treasure_sack_2_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="false" />
+		<set name="time" val="121" />
+
+	</item>
+		<item id="22593" type="EtcItem" name="Dragon Ball">
+		<set name="icon" val="icon.etc_treasure_sack_3_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="false" />
+		<set name="time" val="121" />
+
+	</item>
+		<item id="22594" type="EtcItem" name="Dragon Ball">
+		<set name="icon" val="icon.etc_treasure_sack_4_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="false" />ç
+		<set name="time" val="121" />
+
+	</item>
+		<item id="22595" type="EtcItem" name="Dragon Ball">
+		<set name="icon" val="icon.etc_treasure_sack_5_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="false" />
+		<set name="time" val="121" />
+
+	</item>
+		<item id="22596" type="EtcItem" name="Dragon Ball">
+		<set name="icon" val="icon.etc_treasure_sack_6_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="false" />
+		<set name="time" val="121" />
+
+	</item>
+		<item id="22597" type="EtcItem" name="Dragon Ball">
+		<set name="icon" val="icon.etc_handbag_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="false" />
+		<set name="is_stackable" val="false" />
+		<set name="time" val="121" />
+
+	</item>
+		
+	<item id="22598" type="EtcItem" name="Radar">
+		<set name="icon" val="etc_i.etc_cross_of_einhasad_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="true" />
+		<set name="is_stackable" val="false" />
+		<set name="time" val="2880" />
+
+	</item>
+	</list>

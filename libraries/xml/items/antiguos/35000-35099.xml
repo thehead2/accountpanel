@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+		<item id="35060" name="Кольцо Наследника">
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="durability" val="10080"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.event_classic_ring"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="0"/>
+		<equip>
+			<slot id="RIGHT_FINGER"/>
+			<slot id="LEFT_FINGER"/>
+		</equip>
+		<skills>
+			<skill id="39019" level="1"/>
+		</skills>
+		<for>
+			<add stat="mDef" order="0x10" val="14"/>
+		</for>
+	</item>
+
+		<item id="35081" name="Сундук с подарками в честь открытия сервера Класссик">
+		<set name="handler" val="SkillsReduce"/>
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_box_love_pack"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+				<skills>
+			<skill id="40002" level="1"/>
+		</skills>
+	</item>
+</list>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<item id="35741" name="Свиток Возобновления (низкий уровень)">
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_ev_draco_pk_count_down"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="handler" val="PkDecrease"/>
+		<cond msgId="113">
+			<and>
+				<or>
+					<zone name="[floran_town_peace1]"/>
+					<zone name="[floran_town_peace2]"/>
+					<zone name="[floran_town_peace3]"/>
+				</or>
+			</and>
+		</cond>
+	</item>
+	<item id="35752" name="Свиток Возобновления (средний уровень)">
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_ev_draco_pk_count_down"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="handler" val="PkDecrease"/>
+		<cond msgId="113">
+			<and>
+				<or>
+					<zone name="[floran_town_peace1]"/>
+					<zone name="[floran_town_peace2]"/>
+					<zone name="[floran_town_peace3]"/>
+				</or>
+			</and>
+		</cond>
+	</item>
+	<item id="35753" name="Свиток Возобновления (высокий уровень)">
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_ev_draco_pk_count_down"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="handler" val="PkDecrease"/>
+		<cond msgId="113">
+			<and>
+				<or>
+					<zone name="[floran_town_peace1]"/>
+					<zone name="[floran_town_peace2]"/>
+					<zone name="[floran_town_peace3]"/>
+				</or>
+			</and>
+		</cond>
+	</item>
+	<item id="35754" name="Свиток Возобновления (высший уровень)">
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_ev_draco_pk_count_down"/>
+		<set name="weight" val="10"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="handler" val="PkDecrease"/>
+		<cond msgId="113">
+			<and>
+				<or>
+					<zone name="[floran_town_peace1]"/>
+					<zone name="[floran_town_peace2]"/>
+					<zone name="[floran_town_peace3]"/>
+				</or>
+			</and>
+		</cond>
+	</item>
+</list>

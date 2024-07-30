@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+<etcitem id="57200" name="Low Stone Spirit Joy">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100118"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57201" name="Low Stone Spirit Sorrow">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100119"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57202" name="Legendary Stone Spirit Divine Wings">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100121"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57203" name="High Stone Spirit Neolithica">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100122"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57204" name="High Stone Spirit Juju">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100123"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57205" name="Mid Stone Spirit Oink oink">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100124"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57206" name="Mid Stone Spirit Souvenir">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100125"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57207" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57208" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57209" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57210" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57211" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57212" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57213" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57214" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57215" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57216" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57217" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57218" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57219" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57220" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57221" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57222" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57223" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57224" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57225" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57226" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57227" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57228" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57229" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57230" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57231" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57232" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57233" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57234" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57235" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57236" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57237" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57238" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57239" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57240" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57241" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57242" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57243" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57244" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57245" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57246" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57247" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57248" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57249" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57250" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57251" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57252" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57253" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57254" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57255" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57256" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57257" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57258" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57259" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57260" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57261" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57262" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57263" name="Low-Grade LifeStone">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="icon.etc_mineral_general_i03"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="true"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57264" name="Mid_Grade Lifestone">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="icon.etc_mineral_special_i03"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="true"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57265" name="High_Grade Lifestone">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="icon.etc_mineral_rare_i03"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="true"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57266" name="Top_Grade Lifestone">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="icon.etc_mineral_unique_i03"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="true"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<armor id="57267" name="Belt">
+    <set name="crystal_count" value="36"/>
+    <set name="crystal_type" value="D"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="icon.armor_belt_i04"/>
+    <set name="price" value="21600"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="500"/>
+    <equip>
+      <slot id="BELT"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="8"/>
+	  <add stat="mDef" order="0x10" value="8"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+</armor>
+  <armor id="57268" name="Bracelet">
+    <set name="enchantable" value="false"/>
+    <set name="crystal_count" value="144"/>
+    <set name="crystal_type" value="D"/>
+    <set name="crystallizable" value="false"/>
+    <set name="icon" value="icon.etc_rbracelet_c_i00"/>
+    <set name="price" value="21600"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <equip>
+      <slot id="RIGHT_BRACELET"/>
+    </equip>
+    <skills>
+      <skill id="3322" level="1"/>
+    </skills>
+  </armor>
+  <etcitem id="57269" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57270" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57271" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57272" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+	<etcitem id="57273" name="Pack of Skill Book">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_pi_gift_box_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+		<etcitem id="57274" name="Pack of Spirits">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="branchSys.br_bright_gold_box_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+			<etcitem id="57275" name="Pack of Magic Stones">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_pi_gift_box_i01"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+			<etcitem id="57276" name="Pack of Life Stones">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_pi_gift_box_i03"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+			<etcitem id="57277" name="Pack of Enchants">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_pi_gift_box_i02"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+	</etcitem>
+	<etcitem id="57278" name="Potion of Exp - 30%">
+    <set name="reuse_delay" value="60000"/>
+    <set name="class" value="CONSUMABLE"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="branchSys.Icon.br_vitality_potion_i01"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="POTION"/>
+    <skills>
+      <skill id="90005" level="1"/>
+    </skills>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+  </etcitem>
+  	<etcitem id="57279" name="Potion of Adena - 30%">
+    <set name="reuse_delay" value="60000"/>
+    <set name="class" value="CONSUMABLE"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="branchSys.Icon.br_vitality_potion_i00"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="POTION"/>
+    <skills>
+      <skill id="90008" level="1"/>
+    </skills>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+  </etcitem>
+    	<etcitem id="57280" name="Potion of Adena - 8%">
+    <set name="reuse_delay" value="60000"/>
+    <set name="class" value="CONSUMABLE"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Icon.etc_i.etc_lesser_potion_blue_i00"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="POTION"/>
+    <skills>
+      <skill id="90006" level="1"/>
+    </skills>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+  </etcitem>
+      	<etcitem id="57281" name="Potion of Adena - 15%">
+    <set name="reuse_delay" value="60000"/>
+    <set name="class" value="CONSUMABLE"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Icon.etc_i.etc_water_potion_i00"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="POTION"/>
+    <skills>
+      <skill id="90007" level="1"/>
+    </skills>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+  </etcitem>
+     <etcitem id="57282" name="Potion of Exp - 8%">
+    <set name="reuse_delay" value="60000"/>
+    <set name="class" value="CONSUMABLE"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Icon.etc_i.etc_lesser_potion_purple_i00"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="POTION"/>
+    <skills>
+      <skill id="90003" level="1"/>
+    </skills>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+  </etcitem>
+        	<etcitem id="57283" name="Potion of Exp - 15%">
+    <set name="reuse_delay" value="60000"/>
+    <set name="class" value="CONSUMABLE"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Icon.etc_i.etc_unholy_potion_i00"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="POTION"/>
+    <skills>
+      <skill id="90004" level="1"/>
+    </skills>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+  </etcitem>
+          	<etcitem id="57284" name="Potion of Drop - 8%">
+    <set name="reuse_delay" value="60000"/>
+    <set name="class" value="CONSUMABLE"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Icon.etc_i.etc_lesser_potion_red_i00"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="POTION"/>
+    <skills>
+      <skill id="90009" level="1"/>
+    </skills>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+  </etcitem>
+          	<etcitem id="57285" name="Potion of Drop - 15%">
+    <set name="reuse_delay" value="60000"/>
+    <set name="class" value="CONSUMABLE"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Icon.etc_i.etc_fire_potion_i00"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="POTION"/>
+    <skills>
+      <skill id="90010" level="1"/>
+    </skills>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+  </etcitem>
+          	<etcitem id="57286" name="Potion of Drop - 30%">
+    <set name="reuse_delay" value="60000"/>
+    <set name="class" value="CONSUMABLE"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="BranchSys2.ui.br_rosalia_rose_red_click"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="POTION"/>
+    <skills>
+      <skill id="90011" level="1"/>
+    </skills>
+    <cond msgId="1508">
+      <not>
+        <player olympiad="true"/>
+      </not>
+    </cond>
+  </etcitem>
+  <etcitem id="57287" name="Pack of Mystic Book Skills">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Crest.crest_1_100153"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+  <etcitem id="57288" name="Pack of Mystic Magic Stones">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Crest.crest_1_100157"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+    <etcitem id="57289" name="Pack of Mystic Life Stones">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Crest.crest_1_100159"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+     <etcitem id="57290" name="Pack of Mystic Spirits">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Crest.crest_1_100161"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+     <etcitem id="57291" name="Pack of Mystic Enchant Scrolls">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Crest.crest_1_100163"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57292" name="Pack of Magic Square Tickets">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_5_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57293" name="Pack of Cima Tickets">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_2_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57294" name="Pack of Asalto Tickets">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_1_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+        <etcitem id="57295" name="Pack of Asalto al Jefe Tickets">
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>	
+		<set name="icon" value="Icon.etc_i.etc_box_of_adventure_3_i00"/>
+		<set name="sellable" value="false"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="OTHER"/>
+  </etcitem>
+  <etcitem id="57296" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57297" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57298" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+<etcitem id="57299" name="Recipe">
+<set name="class" value="OTHER"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="Crest.crest_1_100099"/>
+<set name="type" value="OTHER"/>
+<set name="dropable" value="false"/>
+<set name="tradeable" value="false"/>
+<set name="stackable" value="true"/>
+</etcitem>
+</list>

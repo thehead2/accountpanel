@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<item id="34603" name="Чудесный Заряд Души (Без ранга)">
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_spirit_bullet_white_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="type" val="SOULSHOT"/>
+	</item>
+	<item id="34604" name="Чудесный Заряд Души - Ранг D">
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_spirit_bullet_blue_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="type" val="SOULSHOT"/>
+	</item>
+	<item id="34605" name="Чудесный Заряд Души - Ранг C">
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_spirit_bullet_green_i00"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="C"/>
+		<set name="type" val="SOULSHOT"/>
+	</item>
+	<item id="34610" name="Чудесный Благ. Заряд Духа (Без ранга)">
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_spell_shot_white_i01"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="type" val="SPIRITSHOT"/>
+	</item>
+	<item id="34611" name="Чудесный Благ. Заряд Духа - Ранг D">
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_spell_shot_blue_i01"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="type" val="SPIRITSHOT"/>
+	</item>
+	<item id="34612" name="Чудесный Благ. Заряд Духа - Ранг C">
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="sellable" val="false"/>
+		<set name="icon" val="icon.etc_spell_shot_green_i01"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="C"/>
+		<set name="type" val="SPIRITSHOT"/>
+	</item>
+</list>

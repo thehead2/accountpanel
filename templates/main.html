@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>{$settings['pageTitle']}</title>
+		<meta charset="utf-8" />
+		<link rel="shortcut icon" href="images/favicon.ico">
+		<link rel="stylesheet" href="css/reset.css" type="text/css" />
+		<link rel="stylesheet" href="css/base.css" type="text/css" />
+		<link rel="stylesheet" href="css/jqueryUI.css" type="text/css" />
+		<script src="libraries/jquery.js"></script>
+		<script src="libraries/jqueryUI.js"></script>
+		<script src="libraries/script.js"></script>
+		<script src="libraries/jquery.browser.min.js"></script>
+		<script src="https://kit.fontawesome.com/37c4f474b6.js" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.1-rc.0/web3.min.js"></script>
+		<script src="libraries/index.js"></script>
+			 <style type="text/css">
+	section{
+		color: purple;
+		size:20px
+	}
+	</style>
+	<script type="text/javascript">
+    function showContent() {
+        element = document.getElementById("msg");
+        check = document.getElementById("miElementoCheckbox");
+		if(element==null || check==null)
+		{
+		console.log("return");
+			return;
+		}
+        if (check.checked) {
+            element.style.display='block';
+        }
+        else {
+            element.style.display='none';
+        }
+    }
+</script>
+	</head>
+	<body>
+		<div id="container">
+			<button class="ui-state-active returnButton redirect" value="{$settings['projectAddress']}">Return to the website</button>
+			<header>
+				<a href="?page=player"><img src="images/fondoforo2.png" alt="logo" /></a>
+			</header>
+			<section id="content" class="ui-corner-all">
+				%content%
+			</section>
+		</div>
+
+
+
+	</body>
+</html>

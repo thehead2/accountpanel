@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+			<item id="35103" name="Сундук с подарками в честь открытия сервера Класссик">
+		<set name="handler" val="SkillsReduce"/>
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_box_love_pack"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+				<skills>
+			<skill id="40004" level="1"/>
+		</skills>
+	</item>
+	
+			<item id="35104" name="Сундук с подарками в честь открытия сервера Класссик">
+		<set name="handler" val="SkillsReduce"/>
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradable" val="false"/>
+		<set name="icon" val="icon.etc_pi_box_love_pack"/>
+		<set name="stackable" val="true"/>
+		<set name="crystal_type" val="NONE"/>
+				<skills>
+			<skill id="40005" level="1"/>
+		</skills>
+	</item>
+</list>

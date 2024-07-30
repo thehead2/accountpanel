@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<list>
+	<item id="37662" name="Элегантная Золотая Модная Шляпа" add_name="100 дней">
+		<set name="destroyable" val="false"/>
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.bm_romantic_chaperon_gold"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</item>
+	<item id="37665" name="Элегантная Желтая Модная Шляпа" add_name="33 дня">
+		<set name="destroyable" val="false"/>
+		<set name="sellable" val="false"/>
+		<set name="privatestoreable" val="false"/>
+		<set name="dropable" val="false"/>
+		<set name="tradeable" val="false"/>
+		<set name="crystal_type" val="NONE"/>
+		<set name="icon" val="icon.bm_romantic_chaperon_yellow"/>
+		<set name="type" val="NONE"/>
+		<set name="weight" val="10"/>
+		<equip>
+			<slot id="HAIR_ALL"/>
+		</equip>
+	</item>
+</list>
